@@ -1,0 +1,35 @@
+body{
+	background : red;
+}
+
+.container{
+	width : 960px;
+	margin : 0 auto;
+	border : solid 1px black;
+}
+
+#banner{
+	height : 150px;
+	background : black;
+}
+
+nav{}
+
+nav ul{
+	list-style : none;
+	padding : 0px;
+	margin : 0px;
+}
+
+nav ul li{
+	width : 25%;
+	font-weight : bold;
+	float: left;
+}
+
+section{
+	background : grey;
+	width 		: 50%;
+	float      : left;
+	min-height : 80vh;
+}

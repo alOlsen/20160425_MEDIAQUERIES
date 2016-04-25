@@ -1,0 +1,38 @@
+body{
+	background : orange;
+}
+
+.container{
+	width : 100%;
+	margin : 0 auto;
+	border : solid 1px black;
+}
+
+#banner{
+	height : 70px;
+	background : black;
+}
+
+nav{}
+
+nav ul{
+	list-style : none;
+	padding : 0px;
+	margin : 0px;
+}
+
+nav ul li{
+	width : 100%;
+	font-weight : bold;
+	float: left;
+	min-height : 55px;
+	text-align : center;
+}
+
+section{
+	background : grey;
+	width 		: 100%;
+	float      : left;
+	min-height : 80vh;
+	margin-bottom : 2px;
+}
